@@ -15,7 +15,17 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from base import views as v_base
+from borrow import views as v_borrow
+from equipment import views as v_equipment
+from approval import views as v_approval
+from notice import views as v_notice
 
 urlpatterns = [
+    path('base',v_base.explain),
+    path('borrow',v_borrow.explain),
+    path('equipment',v_equipment.explain),
+    path('approval',v_approval.explain),
+    path('notice',v_notice.explain),
     path('admin/', admin.site.urls),
 ]

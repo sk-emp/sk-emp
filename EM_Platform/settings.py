@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'approval',
     'equipment',
     'notice',
+    'borrow',
 ]
 
 MIDDLEWARE = [

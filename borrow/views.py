@@ -3,4 +3,4 @@ from django.shortcuts import render
 
 # Create your views here.
 def explain(request):
-    return HttpResponse('设备管理模块')
+    return HttpResponse('借用模块')
