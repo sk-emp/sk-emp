@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea7d2577-df95-4c59-bd02-b64fb7f0de18" name="Default Changelist" comment="" />
+    <list default="true" id="ea7d2577-df95-4c59-bd02-b64fb7f0de18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EM_Platform/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/EM_Platform/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +102,7 @@
       <updated>1580721196754</updated>
       <workItem from="1580721238996" duration="5110000" />
       <workItem from="1580784329129" duration="1541000" />
+      <workItem from="1580810172632" duration="2828000" />
     </task>
     <servers />
   </component>
@@ -111,6 +118,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="418" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580784565138" />
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580810992565">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580810992565" />
     <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1580782206153">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

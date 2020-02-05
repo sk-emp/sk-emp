@@ -28,4 +28,9 @@ urlpatterns = [
     path('approval',v_approval.explain),
     path('notice',v_notice.explain),
     path('admin/', admin.site.urls),
+    ##########
+    path('login',v_base.login,name='login'),
+    path('login_do',v_base.login_do,name='login_do'),
+    path('bind_email',v_base.bind_email,name='bind_email'),
+    path('send_vc_email',v_notice.send_VCode_email,name='send_vc')
 ]
